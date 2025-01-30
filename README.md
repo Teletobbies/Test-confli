@@ -1,2 +1,2 @@
-# Test-confli
-Depo pour un test de conflie pour un controle.
+## Contribution
+Merci de soumettre vos suggestions directement via une pull request.
